@@ -1,0 +1,5 @@
+{
+  "name": "Duʿāʾ Player",
+  "description": "A beautiful, loop-centric Duʿāʾ (supplication) player with text-to-speech capabilities, playlist management, and multilingual support.",
+  "requestFramePermissions": []
+}
